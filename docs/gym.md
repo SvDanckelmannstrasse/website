@@ -1,0 +1,3 @@
+# [closed due to corona] Gym - Or at least this is how we call it...
+Do you feel like having those six packs but it is too cold outside to go to the gym? Do you want to go for a run but you just ordered pizza? Don't worry.
+The gym is located next to the SV office on the right hand side of the main entrance. You need a special key to enter it which you can get in the SV office hour for a deposit of 50€ that you get back once you bring back the key. The gym can be used 24/7.

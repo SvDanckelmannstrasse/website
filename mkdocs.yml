@@ -1,0 +1,16 @@
+site_name: Danckelmannstraße
+nav:
+  - SV: sv.md
+  - Tutor: tutor.md
+  - Dorm:
+      - Floors: floors.md
+      - Rooms: rooms.md
+      - Kitchens: kitchens.md
+      - Gym: gym.md
+      - Bar: bar.md
+      - Commmon Room: common-room.md
+      - Laundry: laundry.md
+  - FAQ: faq.md
+  - New in Berlin?: new-in-berlin.md
+
+#theme: readthedocs
